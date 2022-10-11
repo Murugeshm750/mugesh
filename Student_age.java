@@ -28,6 +28,7 @@ public class Student_age
                 System.out.println();
                 System.out.println("School - "+(i+1));
             }
+              System.out.println();
         }
 
     }
